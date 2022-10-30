@@ -22,8 +22,8 @@
 
 @media (max-width: 768px) {
 
-  .header { 
-    text-align: center;
+  .header {
+      text-align: center;
   }
 
 }
@@ -49,11 +49,14 @@
   padding: 0px;
 }
 
-.list-item, .heading {
+.list-item,
+.heading {
   list-style: none;
 }
 
-.input-text, .input-checkbox,.btn{
+.input-text,
+.input-checkbox,
+.btn {
   outline: none;
 }
 
@@ -134,7 +137,7 @@
   width: 226px;
 }
 
-.list-item >    .input-text {
+.list-item > .input-text {
   width: 226px
 }
 
